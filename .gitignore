@@ -1,0 +1,6 @@
+api/log/*
+api/tmp/*
+api/storage/*
+api/config/master.key
+
+front/react-sample/node_modules
